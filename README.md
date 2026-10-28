@@ -1,10 +1,10 @@
 # ScriptureSide
 
-An AI Bible study and prayer companion: verse search, multi-translation comparison, study notes and daily devotionals.
+An AI Bible study and prayer companion: verse search, translation comparison and study notes.
 
 ## Links
 
-- [ScriptureSide — Verse Of The Day](https://scriptureside.app/verse-of-the-day)
+- [verse of the day](https://scriptureside.app/verse-of-the-day)
 
 - [Main site](https://scriptureside.app/)
 
